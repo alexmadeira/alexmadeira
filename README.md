@@ -1,14 +1,9 @@
-### Hi there 👋
+Bem-vindo ao meu GitHub! Sou Alex, graduado em Ciências da Computação e ADS. Apaixonado por novas tecnologias, jogos e programação. Tenho cabelo colorido na maior parte do tempo 🤷🏾‍♂️.
 
+## ⚡ Technologies
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...  RD
-- 🌱 I’m currently learning ... Reactjs
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 😎 **Fron-end**
+  - <img src="assets/react-brands.svg" width="20px" > ReactJs
+  - HTML5 / CSS3
+  - Java Script
+  - Node js
