@@ -1,10 +1,12 @@
+<p aling="center"><img src="./assets/capa.png"></p>
+
 ## 👨🏾‍💻 Eu
 
 <p>Bem-vindo ao meu GitHub! Sou Alex, e não eu não sou um desenho 🤪 .</p>
 <p>Apaixonado por novas tecnologias, jogos, programação e viciado em café 🤷🏾‍♂️.</p>
 <p>Não, não sou e numca fui astronaura, mas sonhar é de graça, sempre gostei do espaço da posibilidade de estar num lugar descobrindo coisas novas 🚀.</p>
 
-<a href="https://www.linkedin.com/in/alex-madeira" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>  <a href="https://www.instagram.com/alexcmadeira" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>  <a href="https://www.facebook.com/alex.c.madeira" target="_blank"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?&style=flat-square&logo=facebook&logoColor=white" alt="Facebook"></a>  <a href="https://open.spotify.com/user/12142606837" target="_blank"><img src="https://img.shields.io/badge/Spotify-%231ED760.svg?&style=flat-square&logo=spotify&logoColor=white" alt="Spotify"></a> 
+<a href="https://www.linkedin.com/in/alex-madeira" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a> <a href="https://www.instagram.com/alexcmadeira" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a> <a href="https://www.facebook.com/alex.c.madeira" target="_blank"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?&style=flat-square&logo=facebook&logoColor=white" alt="Facebook"></a> <a href="https://open.spotify.com/user/12142606837" target="_blank"><img src="https://img.shields.io/badge/Spotify-%231ED760.svg?&style=flat-square&logo=spotify&logoColor=white" alt="Spotify"></a>
 
 ## 🤓 Especialidades
 
@@ -34,4 +36,4 @@ Ganhei 3 prêmios
 - **BEST UX DESIGN** <small>Prêmio de melhor User Experience</small>
 - **INNOVATION** <small>Prêmio de Site Inovador</small>
 
-Os 3 pelo site  CSS Design Awards, para o meu xodozinho, meu [portfólio](https://www.alexmadeira.com.br/)
+Os 3 pelo site CSS Design Awards, para o meu xodozinho, meu [portfólio](https://www.alexmadeira.com.br/)
