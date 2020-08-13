@@ -1,4 +1,4 @@
-<p aling="center"><img src="./assets/capa.png"></p>
+<p align="center"><img src="https://github.com/alexmadeira/alexmadeira/blob/master/assets/capa.png"></p>
 
 ## 👨🏾‍💻 Eu
 
