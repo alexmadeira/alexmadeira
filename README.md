@@ -2,18 +2,17 @@
 
 ## 👨🏾‍💻 Eu
 
-<p>Bem-vindo ao meu GitHub! Sou Alex, e não eu não sou um desenho 🤪 .</p>
-<p>Apaixonado por novas tecnologias, jogos, programação e viciado em café 🤷🏾‍♂️.</p>
-<p>Não, não sou e numca fui astronaura, mas sonhar é de graça, sempre gostei do espaço da posibilidade de estar num lugar descobrindo coisas novas 🚀.</p>
+<p>Bem-vindo ao meu GitHub! Sou Alex, e não eu não sou um desenho. 🤪</p>
+<p>Apaixonado por novas tecnologias, jogos, programação e viciado em café. 🤷🏾‍♂️</p>
+<p>Não, não sou e nunca fui astronauta, mas sonhar é de graça. Sempre gostei do espaço da posibilidade de estar num lugar descobrindo coisas novas.🚀</p>
 
 <a href="https://www.linkedin.com/in/alex-madeira" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a> <a href="https://www.instagram.com/alexcmadeira" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a> <a href="https://www.facebook.com/alex.c.madeira" target="_blank"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?&style=flat-square&logo=facebook&logoColor=white" alt="Facebook"></a> <a href="https://open.spotify.com/user/12142606837" target="_blank"><img src="https://img.shields.io/badge/Spotify-%231ED760.svg?&style=flat-square&logo=spotify&logoColor=white" alt="Spotify"></a> <a href="https://alexmadeira.com.br" target="_blank"><img src="https://img.shields.io/badge/Portfólio-%234bbdfc.svg?&style=flat-square&logo=google-chrome&logoColor=white" alt="Portfólio"></a>
 
 ## 🤓 Especialidades
 
 <p>Minha especialidade mesmo não tem uma aplicação profisional (eu acho), adoro resolver problemas e encontrei na programação um jeito de fazer isso.</p>
-<p>Apesar de ter uma inclinação para Front-end (por conta do caçula ser designer), nunca gostei de depender de outras pessoas. Depois de uma carreira passando por várias  linguagens diferentes, decidi focar em apenas uma linguagem, então descobri o javascript (não que eu não conhecesse), com ele eu poderia focar meus estudos em uma linguagem base e desenvolver soluções completas de back-end com NodeJs , front-end web com ReactJs e mobile com React Native.</p>
-
-**_Linguagens_**
+<p>Apesar de ter uma inclinação para Front-end (por conta do caçula ser designer), nunca gostei de depender de outras pessoas. Depois de uma carreira passando por várias  linguagens diferentes, decidi focar em apenas uma linguagem, então descobri o javascript (não que eu não conhecesse), com ele eu poderia fcar meus estudos em uma linguagem base e desenvolver soluções completas de<p> back-end com NodeJs , front-end web com ReactJs e mobile com React Native.</p>
+<p>**_Linguagens_**
 
 - JavaScript
 - Html5
