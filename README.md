@@ -12,6 +12,7 @@
 
 <p>Minha especialidade mesmo não tem uma aplicação profisional (eu acho), adoro resolver problemas e encontrei na programação um jeito de fazer isso.</p>
 <p>Apesar de ter uma inclinação para Front-end (por conta do caçula ser designer), nunca gostei de depender de outras pessoas. Depois de uma carreira passando por várias  linguagens diferentes, decidi focar em apenas uma linguagem, então descobri o javascript (não que eu não conhecesse), com ele eu poderia fcar meus estudos em uma linguagem base e desenvolver soluções completas de<p> back-end com NodeJs , front-end web com ReactJs e mobile com React Native.</p>
+
 **_Linguagens_**
 
 - JavaScript
