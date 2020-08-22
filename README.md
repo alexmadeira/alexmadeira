@@ -37,3 +37,7 @@ Ganhei 3 prêmios
 - **INNOVATION** <small>Prêmio de Site Inovador</small>
 
 Os 3 pelo site CSS Design Awards, para o meu xodozinho, meu [portfólio](https://www.alexmadeira.com.br/)
+
+## 🎧 Spotify
+
+[<img src="https://alexmadeira.vercel.app/api/spotify-playing" alt="Spotify Now Playing" width="350" />](https://open.spotify.com/user/12142606837)
