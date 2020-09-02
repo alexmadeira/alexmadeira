@@ -19,6 +19,7 @@
 - Html5
 - CSS3
 - [ReactJs](https://github.com/facebook/react)
+- [Jest](https://github.com/facebook/jest)
 - [Nodejs](https://github.com/nodejs/node)
 
 ## 👨🏾‍🎓 Graduação
