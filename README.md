@@ -41,4 +41,5 @@ Os 3 pelo site CSS Design Awards, para o meu xodozinho, meu [portfólio](https:/
 
 ## 🎧 Spotify
 
-[<img src="https://alexmadeira.vercel.app/api/spotify-playing" alt="Spotify Now Playing" width="350" />](https://open.spotify.com/user/12142606837)
+
+[<img src="https://alexmadeira-phi.vercel.app/api/spotify-playing" alt="Spotify Now Playing" width="350" />](https://open.spotify.com/user/12142606837)
