@@ -37,7 +37,7 @@ Ganhei 3 prêmios
 - **BEST UX DESIGN** <small>Prêmio de melhor User Experience</small>
 - **INNOVATION** <small>Prêmio de Site Inovador</small>
 
-Os 3 pelo site CSS Design Awards, para o meu xodozinho, meu [portfólio](https://www.alexmadeira.com.br/)
+Os 3 pelo site CSS Design Awards, para o meu xodozinho, meu [portfólio](https://mark-viii.alexmadeira.com.br/)
 
 ## 🎧 Spotify
 
