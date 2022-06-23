@@ -39,7 +39,4 @@ Ganhei 3 prêmios
 
 Os 3 pelo site CSS Design Awards, para o meu xodozinho, meu [portfólio](https://mark-viii.alexmadeira.com.br/)
 
-## 🎧 Spotify
-
-
-[<img src="https://spotify.alexmadeira.com.br/api/spotify" alt="Spotify Now Playing" width="350" />](https://open.spotify.com/user/12142606837)
+![Snake animation](https://github.com/alexmadeira/alexmadeira/blob/output/github-contribution-grid-snake.svg)
