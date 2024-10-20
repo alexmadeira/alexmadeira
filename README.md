@@ -23,8 +23,17 @@
 
 
 <div align="center">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=alexmadeira&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexmadeira&layout=compact&langs_count=7&theme=dracula"/>
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=alexmadeira&show_icons=true&theme=holi&include_all_commits=true&count_private=true&rank_icon=github">
+      <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=alexmadeira&show_icons=true&theme=default&include_all_commits=true&count_private=true&rank_icon=github">
+      <img height="180em" alt="github contribution Stats Card" src="https://github-readme-stats.vercel.app/api?username=alexmadeira&show_icons=true&theme=default&include_all_commits=true&count_private=true&rank_icon=github">
+    </picture>
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=alexmadeira&layout=compact&langs_count=7&theme=holi">
+      <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=alexmadeira&layout=compact&langs_count=7&theme=default">
+      <img height="180em" alt="github Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexmadeira&layout=compact&langs_count=7&theme=default">
+    </picture>
+
 
 </div>
 <div style="display: inline_block"><br>
@@ -58,5 +67,5 @@ Os 3 pelo site CSS Design Awards, para o meu xodozinho, meu [portfólio](https:/
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://spotify-github-profile.kittinanx.com/api/view?uid=12142606837&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=1d551b&bar_color_cover=false">
   <source media="(prefers-color-scheme: light)" srcset="https://spotify-github-profile.kittinanx.com/api/view?uid=12142606837&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=1d551b&bar_color_cover=false">
-  <img alt="github contribution grid snake animation" src="https://spotify-github-profile.kittinanx.com/api/view?uid=12142606837&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=1d551b&bar_color_cover=false" style="width: 15vw;">
+  <img alt="github contribution grid snake animation" src="https://spotify-github-profile.kittinanx.com/api/view?uid=12142606837&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=1d551b&bar_color_cover=false">
 </picture>
