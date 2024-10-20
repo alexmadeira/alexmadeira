@@ -1,9 +1,9 @@
 <p align="center"><img style="width: 100%;height: auto;" src="https://github.com/alexmadeira/alexmadeira/blob/master/assets/capa.png"></p>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/alexmadeira/alexmadeira/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/alexmadeira/alexmadeira/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/alexmadeira/alexmadeira/output/github-contribution-grid-snake.svg">
 </picture>
 
 ## 👨🏾‍💻 Eu
@@ -55,4 +55,8 @@ Ganhei 3 prêmios
 
 Os 3 pelo site CSS Design Awards, para o meu xodozinho, meu [portfólio](https://mark-viii.alexmadeira.com.br/)
 
-![Snake animation](https://github.com/alexmadeira/alexmadeira/blob/output/github-contribution-grid-snake.svg)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://spotify-github-profile.kittinanx.com/api/view?uid=12142606837&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=1d551b&bar_color_cover=false">
+  <source media="(prefers-color-scheme: light)" srcset="https://spotify-github-profile.kittinanx.com/api/view?uid=12142606837&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=1d551b&bar_color_cover=false">
+  <img alt="github contribution grid snake animation" src="https://spotify-github-profile.kittinanx.com/api/view?uid=12142606837&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=1d551b&bar_color_cover=false" style="width: 15vw;">
+</picture>
