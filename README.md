@@ -1,5 +1,11 @@
 <p align="center"><img style="width: 100%;height: auto;" src="https://github.com/alexmadeira/alexmadeira/blob/master/assets/capa.png"></p>
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
+</picture>
+
 ## 👨🏾‍💻 Eu
 
 <p>Bem-vindo ao meu GitHub! Sou Alex, e não eu não sou um desenho. 🤪</p>
@@ -31,7 +37,7 @@
   <img align="center" alt="Alex-Node" height="30" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain.svg" />
 
 </div>
-  
+
 ## 👨🏾‍🎓 Graduação
 
 <p>Então rsrsr,</p>
