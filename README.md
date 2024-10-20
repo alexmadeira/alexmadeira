@@ -19,9 +19,43 @@
 <p>Minha especialidade mesmo não tem uma aplicação profissional (eu acho), adoro resolver problemas e encontrei na programação um jeito de fazer isso.</p>
 <p>Apesar de ter uma inclinação para Front-end (por conta do caçula ser designer), nunca gostei de depender de outras pessoas. Depois de uma carreira passando por várias linguagens diferentes, decidi focar em apenas uma linguagem, então descobri o javascript (não que eu não conhecesse), com ele eu poderia focar meus estudos em uma linguagem base e desenvolver soluções completas de back-end com NodeJs , front-end web com ReactJs e mobile com React Native.</p>
 
-**_Linguagens_**
-
-
+## 🔥 Skills
+<table>
+  <tr>
+    <td align="left">
+      <div style="flex-basis: 48%;">
+        <h3>Languages</h3>
+        <img width="441" height="1">
+        <img align="left" alt="JavaScript logo" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
+        <img align="left" alt="TypeScript logp" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg">
+        <img align="left" alt="NodeJs logo" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
+        <img align="left" alt="CSS3 logo" height="40" src="https://skillicons.dev/icons?i=css">
+        <img align="left" alt="HTM5 logo" height="40" src="https://skillicons.dev/icons?i=html">
+      </div>
+    </td>
+    <td align="left">
+      <div style="flex-basis: 48%;">
+        <h3>Frameworks</h3>
+        <img width="441" height="1">
+        <img align="left" alt="ReactJs logo" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
+        <img align="left" alt="NestJS logo" height="40" src="https://cdn.simpleicons.org/nestjs/E0234E">
+        <img align="left" alt="NextJS logo" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg">
+      </div>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" align="left">
+      <div style="flex-basis: 48%;">
+        <h3>Libraries</h3>
+        <img width="441" height="1">
+        <img align="left" alt="Jest logo" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg">
+        <img align="left" alt="Tailwind logo" height="40" src="https://skillicons.dev/icons?i=tailwind">
+        <img align="left" alt="Storybook logo" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg">
+      </div>
+    </td>
+  </tr>
+</table>
+<br />
 <div align="center">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=alexmadeira&show_icons=true&theme=holi&include_all_commits=true&count_private=true&rank_icon=github">
@@ -33,18 +67,6 @@
       <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=alexmadeira&layout=compact&langs_count=7&theme=default">
       <img height="180em" alt="github Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexmadeira&layout=compact&langs_count=7&theme=default">
     </picture>
-
-
-</div>
-<div style="display: inline_block"><br>
-  <img align="center" alt="Alex-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Alex-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="Alex-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Alex-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Alex-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Alex-Jest" height="30" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" />
-  <img align="center" alt="Alex-Node" height="30" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain.svg" />
-
 </div>
 
 ## 👨🏾‍🎓 Graduação
