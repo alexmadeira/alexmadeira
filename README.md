@@ -1,4 +1,4 @@
-<p align="center"><img style="width: 100%;height: auto;" src="https://github.com/alexmadeira/alexmadeira/blob/master/assets/capa.png"></p>
+<p align="center"><img style="width: 100%;height: auto;" src="https://github.com/alexmadeira/alexmadeira/blob/main/assets/capa.png"></p>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/alexmadeira/alexmadeira/output/github-contribution-grid-snake-dark.svg">
