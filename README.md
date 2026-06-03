@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/alexmadeira/alexmadeira/blob/main/assets/capa-2.jpg" alt="Alex Madeira - Senior Front-end Developer" width="100%">
+  <img src="https://github.com/alexmadeira/alexmadeira/blob/main/assets/capa-3.jpg" alt="Alex Madeira - Senior Front-end Developer" width="100%">
 </p>
 
 # Alex Madeira
